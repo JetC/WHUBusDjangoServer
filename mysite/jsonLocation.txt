@@ -1,0 +1,38 @@
+{
+    "position": [
+        {
+            "bus_type": 2,
+            "bus_id": 1,
+            "longitude": 114.358008,
+            "latitude": 30.539484,
+            "speed": 0,
+            "accuracy": 2000
+        },
+        {
+            "bus_type": 1,
+            "bus_id": 2,
+            "longitude": 114.358018,
+            "latitude": 30.539474,
+            "speed": 90,
+            "accuracy": 1000
+        },
+        {
+            "bus_type": 3,
+            "bus_id": 4,
+            "longitude": 114.358038,
+            "latitude": 30.539424,
+            "speed": 50,
+            "accuracy": 100
+        },
+        {
+            "bus_type": 4,
+            "bus_id": 9,
+            "longitude": 114.358048,
+            "latitude": 30.539404,
+            "speed": 30,
+            "accuracy": 190
+        }
+
+
+    ]
+}

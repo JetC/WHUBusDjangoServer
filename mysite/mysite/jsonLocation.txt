@@ -1,0 +1,20 @@
+{
+    "position": [
+        {
+            "bus_type": 2,
+            "bus_id": 1,
+            "longitude": 114.358008,
+            "latitude": 30.539484,
+            "speed": 0,
+            "accuracy": 2000
+        },
+        {
+            "bus_type": 1,
+            "bus_id": 2,
+            "longitude": 114.358018,
+            "latitude": 30.539474,
+            "speed": 90,
+            "accuracy": 1000
+        }
+    ]
+}
